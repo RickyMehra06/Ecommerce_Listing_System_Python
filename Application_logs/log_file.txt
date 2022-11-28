@@ -1,0 +1,91 @@
+2022-11-28--15:44:05	Dist_Inventory_1_24-08-2022 moved to Good_Files Folder.
+2022-11-28--15:44:05	Dist_Inventory_1_24-08-2022sscsbjscb moved to Bad_Files Folder.
+2022-11-28--15:44:05	Dist_Inventory_2_24-08-2022 moved to Good_Files Folder.
+2022-11-28--15:44:05	Dist_Inventory_3_24-08-2022 moved to Good_Files Folder.
+2022-11-28--15:44:05	Dist_Inventory_4_24-08-2022 moved to Good_Files Folder.
+2022-11-28--15:44:05	Dist_Inventory_5_24-08-2022 moved to Good_Files Folder.
+2022-11-28--15:44:05	Dist_Inventory_6_24-08-2022 moved to Good_Files Folder.
+2022-11-28--15:44:05	ISBN column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Name column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Currency column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Price column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Quantity column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Publisher column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Date column of the file Dist_Inventory_1_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	ISBN column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Name column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:05	Currency column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Price column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Quantity column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Publisher column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Date column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Extra Col column of the file Dist_Inventory_2_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	ISBN column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	NameD column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Currency column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Price column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Quantity column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	PublisherD column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Date column of the file Dist_Inventory_3_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	ISBN column of the file Dist_Inventory_4_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Name column of the file Dist_Inventory_4_24-08-2022 is non-empty whole column
+2022-11-28--15:44:06	Currency column of the file Dist_Inventory_4_24-08-2022 has All Missing values.
+2022-11-28--15:44:07	ISBN column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Name column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Currency column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Price column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Quantity column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Publisher column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Date column of the file Dist_Inventory_5_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	ISBN column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Name column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Currency column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Price column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Quantity column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Publisher column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Date column of the file Dist_Inventory_6_24-08-2022 is non-empty whole column
+2022-11-28--15:44:07	Dist_Inventory_1_24-08-2022 file has same numbers of columns as table schema.
+2022-11-28--15:44:08	Dist_Inventory_2_24-08-2022 file does not have same numbers of columns as table schema and moved to Bad Files Folder.
+2022-11-28--15:44:08	Dist_Inventory_3_24-08-2022 file has same numbers of columns as table schema.
+2022-11-28--15:44:08	Dist_Inventory_5_24-08-2022 file has same numbers of columns as table schema.
+2022-11-28--15:44:08	Dist_Inventory_6_24-08-2022 file has same numbers of columns as table schema.
+2022-11-28--15:44:08	Dist_Inventory_1_24-08-2022 has valid schema file.
+2022-11-28--15:44:09	Dist_Inventory_3_24-08-2022 does NOT have valid schema file.
+2022-11-28--15:44:09	Dist_Inventory_5_24-08-2022 has valid schema file.
+2022-11-28--15:44:09	Dist_Inventory_6_24-08-2022 has valid schema file.
+2022-11-28--15:44:11	Missing values are replaced with zero for uploading raw data into the database.
+2022-11-28--15:44:13	Good Raw data has been uploaded in Mongodb successfully!!
+2022-11-28--15:44:14	3 number of files located in the Good_Raw Files Folder.
+2022-11-28--15:44:14	19 number of rows have missing values.
+2022-11-28--15:44:14	10 ISBNs are not of exactly 13 digits and removed from listing.
+2022-11-28--15:44:14	7 number of rows have invalid currency code.
+2022-11-28--15:44:14	4 number of rows have price less than or equals to zero.
+2022-11-28--15:44:15	6 number of rows have Qunatity less than or equals to zero.
+2022-11-28--15:44:16	Quantities deleted below threshold levels.
+2022-11-28--15:44:16	Quantities converted into respective bins.
+2022-11-28--15:44:16	Master file has been loaded successfully.
+2022-11-28--15:44:16	150 ISBNs have no ASIN and weight available in the master file, please check Required_ASIN_Details file.
+2022-11-28--15:44:17	Prices converted as per GOC rates (Brought into INR).
+2022-11-28--15:44:17	Discounts are applied on the INR prices.
+2022-11-28--15:44:17	Prices converted into required currency price.
+2022-11-28--15:44:17	Shipping charge file is loaded successfully.
+2022-11-28--15:44:17	Shipping charge file is merged with master dataframe.
+2022-11-28--15:44:17	Net cost price is calculated as per currency.
+2022-11-28--15:44:17	Selling price is calculated for required currency.
+2022-11-28--15:44:17	Selling price is calculated for required currency.
+2022-11-28--15:44:17	Selling price is calculated for required currency.
+2022-11-28--15:44:18	Selling price is calculated for required currency.
+2022-11-28--15:44:21	Selling price is calculated for required currency.
+2022-11-28--15:44:23	Selling price is calculated for required currency.
+2022-11-28--15:44:26	Minimum Selling price is calculated.
+2022-11-28--15:44:28	Minimum Selling price is calculated.
+2022-11-28--15:44:30	Minimum Selling price is calculated.
+2022-11-28--15:44:33	Minimum Selling price is calculated.
+2022-11-28--15:44:34	Minimum Selling price is calculated.
+2022-11-28--15:44:36	Minimum Selling price is calculated.
+2022-11-28--15:44:36	SKU created as per the required USD currency.
+2022-11-28--15:44:36	SKU created as per the required CAD currency.
+2022-11-28--15:44:36	SKU created as per the required AUS currency.
+2022-11-28--15:44:37	USD Fillz and Automated files have been generated successfully.
+2022-11-28--15:44:38	CAD Fillz and Automated files have been generated successfully.
+2022-11-28--15:44:39	AUS Fillz and Automated files have been generated successfully.

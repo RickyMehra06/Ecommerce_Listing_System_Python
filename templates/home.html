@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+  
+</head>
+
+<body style="background-color:#e4e5e6;">
+    <div class="login">
+       <h1 style=background-color:#FD0E35;" >Python Project - Automate Ecommerce Listing</h1>
+          
+        <!-- Input excel files path  -->
+        <table>      
+          <form action="{{ url_for('fillz_api')}}"method="post">
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      USD/INR Rate:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="USD/INR Rate" placeholder="USD/INR Rate" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      CAD/INR Rate:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="CAD/INR Rate" placeholder="CAD/INR Rate" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      AUS/INR Rate:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="AUS/INR Rate" placeholder="AUS/INR Rate" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    &nbsp;
+                    <!--you just need a space in a row-->
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      Required Profit-USA:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="Required Profit-USA" placeholder="Required Profit-USA" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      Required Profit-CAD:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="Required Profit-CAD" placeholder="Required Profit-CAD" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      Required Profit-AUS:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="Required Profit-AUS" placeholder="Required Profit-AUS" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    &nbsp;
+                    <!--you just need a space in a row-->
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      Minimum Profit Req-USA:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="Minimum Profit Required-USA" placeholder="Minimum Profit Required-US" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      Minimum Profit Req-CAD:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="Minimum Profit Required-CAD" placeholder="Minimum Profit Required-CAD" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      Minimum Profit Req-AUS:
+                    </label>
+                </td>
+                <td><input type="number" step="any" name="Minimum Profit Required-AUS" placeholder="Minimum Profit Required-AUS" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    &nbsp;
+                    <!--you just need a space in a row-->
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      MongoDB User Name:
+                    </label>
+                </td>
+                <td><input type="text" name="MongoDB User Name" placeholder="MongoDB User Name" required="required" /><br>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                    <label style="font-weight: bold;">
+                      MongoDB User Password:
+                    </label>
+                </td>
+                <td><input type="password" name="MongoDB User Password" placeholder="MongoDB User Password" required="required" /><br>
+                </td>
+              </tr>
+
+
+        </table>
+        <br>
+
+                
+	    <button type="submit" class="btn btn-primary btn-block btn-large">Submit</button><br>
+       
+        </form>
+   
+      <br>
+      <br>
+
+    </div>
+  
+    {{output_data}}
+   
+   </body>
+   </html>
+
+

@@ -1,0 +1,15 @@
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+flask 
+gunicorn
+datetime
+mysql-connector-python
+xlrd==1.2.0
+scikit-learn
+pymongo
+
+

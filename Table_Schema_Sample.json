@@ -1,0 +1,12 @@
+{	"NumberofColumns"  : 7,
+	"ColName": {
+		"ISBN" 	   : ["int64","float64"],
+		"Name"     : "object",
+		"Currency" : "object",
+		"Price"    : ["int64","float64"],
+		"Quantity" : ["int64","float64"],
+		"Publisher": "object",
+		"Date"     : "datetime64[ns]"
+				
+		   }	
+}
