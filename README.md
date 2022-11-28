@@ -18,15 +18,15 @@ conda create -p venv python==3.7 -y
 # Problem Statement:
 The account manager of the Amazon seller wants to create a bulk listing excel file to be uploaded at the Amazon seller portal. The inventory files in the form of excel/csv are received from the publishers or distributors at a certain time daily. The sample of such files can be referenced at Input_Origin_Raw folder.
 
-Using MS Excel it takes 40-45 minutes to process the each inventory file in order to create the required bulk listing file. Since Amazon charges it's fee on the selling price (SP) it becomes complex to generate the selling price of thousands of the products to achieve the fixed profit amount in MS Excel as each product has its cost price and shipping charges as per their weights & dimensions.
+Using MS Excel it takes 40-45 minutes to process the each inventory file in order to create the required bulk listing file. Since Amazon charges it's fee on the selling price (SP) it becomes complex to generate the selling price of thousands of the products to achieve the fixed profit amount in MS Excel as each product has its own cost price and shipping charges as per their weights & dimensions.
 
-The manager wants to automate the above process using Python in order to save processing time, money and allows user to choose the amount of profit while generating these files for each country region. 
+The manager wants to automate the above process using Python in order to save processing time and allows user to choose the amount of profit while generating these files for the respective country region. 
 
 
 # Solution Provided:
 
-* Gradient descent approach is used to achieve the selling price for the desired amount of profit and the same can be refrenced at stage_04_data_formation.py module.
-* Since inventory receiving timing is not same from each stakeholder, this automate Python system gives manager an option to choose one or more files at time of processing.
+* Gradient descent approach is used to achieve the selling price for the desired amount of profit and the same can be referenced at stage_04_data_formation.py module.
+* Since inventory receiving timing is not same from each stakeholder, this automate Python system gives manager an option to choose one or more files at the time of processing.
 * Time taken to complete the task is below 8 minutes which was earlier 45 minutes for each file.
 
 
